@@ -828,6 +828,22 @@ a {
         border: 6px solid rgba(255,255,255,0.8);
     }
 
+.testimonial__title {
+        color: #2f5572;
+        text-align: center;
+        font-size: 1.5rem;
+        font-weight: 500;
+        margin: 0;
+    }
+
+.testimonial__subtitle {
+        color: #d59541;
+        text-align: center;
+        font-weight: 400;
+        font-size: 0.9375rem;
+        margin: .25rem 0 1rem 0;
+    }
+
 
 
 
